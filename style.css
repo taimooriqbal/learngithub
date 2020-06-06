@@ -1,0 +1,295 @@
+.navbar-nav {
+    
+}
+
+
+.logor {
+width: 400px;
+height: 100px;
+}
+
+.nav-link {
+font-weight: bold;
+}
+
+.untold{
+ font-size: 150px;
+}
+
+.internul {
+ background-color: #546E7A;
+ width: 100%;
+ height: 400px;
+}
+.mang {
+justify-content: center;
+text-align: center;
+}
+.mang1 {
+font-size: 50px;
+color: white;
+padding-top: 80px;
+}
+.hr1 {
+    
+    background-color: #f0f0f0;
+  width: 350px;
+  margin-left: 780px;
+ 
+}
+
+.paraa1 {
+    color: #f0f0f0;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+.whys {
+    width: 100%;
+    height: 550px;
+    background-color:#546E7A;
+    
+}
+
+.whys1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin-bottom:20px ;
+}
+
+.whys2{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom:20px
+
+}
+
+.whys {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+
+
+.roos {
+    margin-top: 20px;
+
+}
+
+.footermain {
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.footer1 {
+    margin-bottom: 20px;
+}
+
+.footer2 {
+    margin-bottom: 20px;
+}
+
+.footer3 {
+    margin-bottom: 20px;
+}
+
+.bs {
+    color: #29B6F6
+    ;
+}
+
+
+.mainss {
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.bns {
+    text-align: center;
+    justify-content: center;
+    padding-top: 200px;
+    color: white;
+} 
+
+
+.paragraph1 {
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    text-align: center;
+    background-color: #424242;
+    color: white;
+    padding-top: 100px;
+    
+}
+
+.paragraph2 {
+    width: 100%;
+    height: 500px;
+    background-image: url('images/ers.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    line-height: 200%;
+    padding-top:  100px;
+    color: black;
+    /* font-weight: bold; */
+}
+
+
+@media screen and (min-width: 600px) {
+    .paragraph2,.paragraph1,.mainss{
+        width: 100% !important; 
+    }
+
+  }
+
+  .when {
+      width: 100%;
+      height: 250px;
+      background-color: white;
+      margin-left: 300px;
+      margin-top: 200px;
+  }
+
+  .ucc {
+      color: #DD2C00
+      ;
+  }
+
+  .last {
+      margin-left: 600px;
+  }
+
+  .second {
+      width: 100%;
+      /* height: 800px; */
+  }
+  
+  .towpac {
+      width: 100%;
+      height: 800px;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+
+  .threepac {
+      color: #29B6F6;
+      font-size: 60px;
+      text-align: center;
+      justify-content: center;
+      padding-top: 400px;
+      font-weight: bold;
+  }
+  .custom-list{
+column-count: 3;
+  }
+
+  .hm1 {
+      text-align: center;
+      justify-content: center;
+      margin-bottom: 30px;
+  }
+
+  .ps1 {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+
+  .wellmain{
+      background-image: url('iamges/well.jpg');
+  }
+
+  .fourpac {
+      color: #29B6F6 ;
+      text-align: center;
+      padding-top: 40px;
+  }
+
+  .col11 {
+      margin-left: 100px;
+      margin-top: 40px;
+  }
+
+  .zero{
+color: white;
+text-align: center;
+justify-content: center;
+font-weight: bold;
+padding-top: 400px;
+  }
+  .zero1{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+  }
+  
+
+  .zeroo{
+      padding-top: 100px;
+      margin-left: 30px;
+  }
+
+  .zoo{
+      padding-top: 30px;
+      margin-left: 50px;
+  }
+
+  .geophy1 {
+      color: black;
+      text-align: center;
+      justify-content: center;
+      padding-top: 400px;
+      
+  }
+
+  .geophy2 {
+    color: black;
+    text-align: center;
+      justify-content: center;
+
+  }
+
+  .geophymain {
+      text-align: justify;
+      margin-left: 20px;
+     
+  }
+
+.topo1 {
+text-align: center;
+color: white;
+padding-top: 400px;
+}
+  
+.topo2 {
+    text-align: center;
+    color: white;
+}
+
+.topomain {
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.pros1 {
+    margin-left: 870px;
+    
+}
+
